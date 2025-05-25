@@ -1,0 +1,1 @@
+# Ex.No-12-E-JAVA-DEQUEUE
